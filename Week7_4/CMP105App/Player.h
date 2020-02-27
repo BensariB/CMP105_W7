@@ -16,6 +16,7 @@ public:
 	Bullet* getBullet() {
 		return bullet;
 	};
+	Bullet newBullet;
 
 private:
 	Bullet* bullet;
